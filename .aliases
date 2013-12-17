@@ -15,6 +15,11 @@ alias g="git"
 alias h="history"
 alias j="jobs"
 
+alias ipy=ipython
+alias py=python
+alias py3=python3
+
+
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
 	colorflag="--color"
