@@ -13,6 +13,8 @@ alias cddl="cd ~/Downloads"
 alias cddt="cd ~/Desktop"
 alias cdp="cd $PROJECTS_PATH"
 alias g="git"
+alias ggui="git gui &"
+alias gk="gitk"
 alias h="history"
 alias j="jobs"
 
