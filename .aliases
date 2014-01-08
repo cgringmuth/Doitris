@@ -18,6 +18,7 @@ alias gk="gitk"
 alias h="history"
 alias j="jobs"
 
+
 alias ipy=ipython
 alias py=python
 alias py3=python3
