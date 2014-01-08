@@ -23,3 +23,11 @@ export GREP_OPTIONS="--color=auto"
 
 # Link Homebrew casks in `/Applications` rather than `~/Applications`
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
+
+################################################################################
+#   edites by chris
+################################################################################
+export SHARED_PATH="$HOME/shared"
+export GITHUB_PATH="$SHARED_PATH/github"
+export DROPBOX_PATH="$SHARED_PATH/Dropbox"
+export PROJECTS_PATH="$SHARED_PATH/projects"
